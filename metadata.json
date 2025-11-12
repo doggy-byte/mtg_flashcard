@@ -1,0 +1,5 @@
+{
+  "name": "Image Flashcard Revealer",
+  "description": "An interactive flashcard application that displays the top half of an image. Users can click a button to reveal the full image and cycle through a collection of cards.",
+  "requestFramePermissions": []
+}
